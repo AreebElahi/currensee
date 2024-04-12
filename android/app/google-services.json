@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "277817688001",
+    "project_id": "currensee-e0640",
+    "storage_bucket": "currensee-e0640.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277817688001:android:672dd32be0fc547966b940",
+        "android_client_info": {
+          "package_name": "com.example.currensee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277817688001-861orgtao8sh4oflsvbme5mpei3o7ai7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.currensee",
+            "certificate_hash": "daa4ab27dcce834184b337a08f40aa015b26d955"
+          }
+        },
+        {
+          "client_id": "277817688001-pecvpe2qn1l7li9jevl5sdsh8uibab66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByS7ewbd4PPOthWbq_NSXSGxgELLZ5ybw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277817688001-pecvpe2qn1l7li9jevl5sdsh8uibab66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
